@@ -82,3 +82,7 @@ print(f'真实标签: {label}, 预测: {pred}')
 plt.imshow(img.squeeze(), cmap='gray')
 plt.title(f'true={label}, pred={pred}')
 plt.show()
+
+
+
+# 注释：此代码由deepseek生成，作为简单讲解案例（PS:PWT1224)
